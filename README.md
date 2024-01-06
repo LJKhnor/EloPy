@@ -1,6 +1,9 @@
 # EloPy
 
 This code originally come from https://github.com/HankSheehan/EloPy
+Originally create as a librairy, it contain only one simply file.
+So to integrate this code directly in a application, the development 
+will be integrate around.
 
 ## What is the Elo Rating System?
 * The Elo Rating System (Elo) is a rating system used for rating players in games. Originally developed for chess by Arpad Elo, Elo has been applied to a large array of games.
