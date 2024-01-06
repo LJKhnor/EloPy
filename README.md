@@ -1,9 +1,6 @@
 # EloPy
 
-Please reccomend any functionality you think should be added!
-
-A python library for the Elo Rating System. Right now it only supports 1 vs 1 games.
-
+This code originally come from https://github.com/HankSheehan/EloPy
 
 ## What is the Elo Rating System?
 * The Elo Rating System (Elo) is a rating system used for rating players in games. Originally developed for chess by Arpad Elo, Elo has been applied to a large array of games.
